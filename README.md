@@ -15,6 +15,7 @@ Display de 7 segmentos cátodo común
 Transistores  
 
 # IDE UTILIZADO                                                                                                                                                           
-ID Arduino y Tinkercad
+
 ![image](https://user-images.githubusercontent.com/82168337/204870517-eeb5dc7e-7e5a-4358-bbdb-05363acf4006.png)
 
+ID Arduino y Tinkercad
