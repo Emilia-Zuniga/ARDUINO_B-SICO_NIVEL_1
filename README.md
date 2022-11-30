@@ -5,9 +5,9 @@ Prácticas básicas para empezar a aprender Arduino.
 ID Arduino y Tinkercad
 
 #MATERIALES
-     Arduino Uno 
+      Arduino Uno 
   	 Protoboard
-     Leds (rojo, verde, amarillo)  
+      Leds (rojo, verde, amarillo)  
   	 Resistores 330 ó 470 Ω a ¼ ó ½ watts 
   	 Cables Macho – Macho
   	 Botón pulsador normalmente abierto
