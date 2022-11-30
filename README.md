@@ -17,5 +17,5 @@ Transistores
 # IDE UTILIZADO                                                                                                                                                           
 
 ![image](https://user-images.githubusercontent.com/82168337/204870517-eeb5dc7e-7e5a-4358-bbdb-05363acf4006.png)
+![image](https://user-images.githubusercontent.com/82168337/204870800-59f86690-cb74-4eab-85de-04e464466dab.png)
 
-ID Arduino y Tinkercad
