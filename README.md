@@ -15,4 +15,4 @@ Led RGB cátodo común
 Sensor de Temperatura LM35                                                                                                                             
 Sensor Ultrasónico HC-SR04                                                                                                                             
 Display de 7 segmentos cátodo común
-Transistores                                                                                                                                                                                                                                                                    
+Transistores                                                                                                                                                                                                                              
